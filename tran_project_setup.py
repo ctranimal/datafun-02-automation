@@ -53,6 +53,9 @@ REGIONS = [
     "Middle East"
 ]
 
+# This global variable: will SKIP executing code if isOff is True
+isOff : bool = True
+
 #####################################
 # Define Function 1. For item in Range: 
 # Create a function to generate folders for a given range (e.g., years).
@@ -73,16 +76,10 @@ def create_folders_for_range(start_year: int, end_year: int) -> None:
     logger.info("FUNCTION: create_folders_for_range()")
     logger.info(f"PARAMETERS: start_year = {start_year}, end_year = {end_year}")
 
-    # TODO: Loop through the years from start_year to end_year (inclusive)
-    # TODO: For each year, create a folder using ROOT_DIR / str(year)
-    # TODO: Log a message each time a folder is created
-    # TODO: Use .mkdir(exist_ok=True) so the program doesn't crash if the folder already exists
-
-    # Example starter structure:
-    # for year in range(start_year, end_year + 1):
-    #     year_path = ROOT_DIR / str(year)
-    #     year_path.mkdir(exist_ok=True)
-    #     logger.info(f"Created folder: {year_path}")
+    for year in range(start_year, end_year + 1):
+         year_path = ROOT_DIR / str(year)
+         year_path.mkdir(exist_ok=True)
+         logger.info(f"Created folder: {year_path}")
 
 
   
@@ -105,11 +102,11 @@ def create_folders_from_list(folder_list: list) -> None:
     logger.info("FUNCTION: create_folders_from_list()")
     logger.info(f"PARAMETER: folder_list = {folder_list}")
 
-    # TODO: Loop through the list of folder names
-    # TODO: For each name, create a folder using ROOT_DIR / name
-    # TODO: Log a message each time a folder is created
-
-    pass
+    for folder in folder_list:
+         folder_path = ROOT_DIR / folder
+         folder_path.mkdir(exist_ok=True)
+         logger.info(f"Created folder: {folder_path}")      
+    
 
 
   
@@ -200,13 +197,13 @@ def main() -> None:
 
     logger.info(f"Byline: {utils_tran.get_byline()}")
 
-    # Call function 1 to create folders for a range (e.g. years)
-    create_folders_for_range(start_year=2020, end_year=2023)
-
-    # Call function 2 to create folders given a list
-    folder_names = ['data-csv', 'data-excel', 'data-json']
-    # TODO: nextline   
-    #create_folders_from_list(folder_names)
+    if(not(isOff)):
+        # Call function 1 to create folders for a range (e.g. years)
+        create_folders_for_range(start_year=2020, end_year=2023)     
+        # Call function 2 to create folders given a list
+        folder_names = ['data-csv', 'data-excel', 'data-json']
+        create_folders_from_list(folder_names)       
+    
 
     # Call function 3 to create folders using list comprehension
     folder_names = ['csv', 'excel', 'json']
