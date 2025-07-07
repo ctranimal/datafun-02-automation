@@ -668,3 +668,347 @@ Standard Deviation of Satisfaction Scores: 0.35
 #####################################
 2025-07-06 20:09:49.700 | INFO     | __main__:main:225 - # Completed execution of main()
 2025-07-06 20:09:49.700 | INFO     | __main__:main:226 - #####################################
+2025-07-06 20:22:49.476 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-07-06 20:22:49.477 | INFO     | __main__:main:209 - #####################################
+2025-07-06 20:22:49.477 | INFO     | __main__:main:210 - # Starting execution of main()
+2025-07-06 20:22:49.477 | INFO     | __main__:main:211 - #####################################
+
+2025-07-06 20:22:49.477 | INFO     | __main__:main:213 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:22:49.477 | INFO     | __main__:create_folders_periodically:155 - FUNCTION: create_folders_periodically()
+2025-07-06 20:22:49.477 | INFO     | __main__:create_folders_periodically:156 - PARAMETER: duration_seconds = 5
+2025-07-06 20:22:54.480 | INFO     | __main__:create_folders_periodically:172 -    WAITING: counter = 2, duration_seconds = 5
+2025-07-06 20:22:59.485 | INFO     | __main__:create_folders_periodically:172 -    WAITING: counter = 4, duration_seconds = 5
+2025-07-06 20:23:04.486 | INFO     | __main__:create_folders_periodically:172 -    WAITING: counter = 8, duration_seconds = 5
+2025-07-06 20:23:04.487 | INFO     | __main__:main:237 - 
+#####################################
+2025-07-06 20:23:04.487 | INFO     | __main__:main:238 - # Completed execution of main()
+2025-07-06 20:23:04.487 | INFO     | __main__:main:239 - #####################################
+2025-07-06 20:23:45.339 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-07-06 20:23:45.339 | INFO     | __main__:main:209 - #####################################
+2025-07-06 20:23:45.339 | INFO     | __main__:main:210 - # Starting execution of main()
+2025-07-06 20:23:45.340 | INFO     | __main__:main:211 - #####################################
+
+2025-07-06 20:23:45.340 | INFO     | __main__:main:213 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:23:45.340 | INFO     | __main__:create_folders_periodically:155 - FUNCTION: create_folders_periodically()
+2025-07-06 20:23:45.340 | INFO     | __main__:create_folders_periodically:156 - PARAMETER: duration_seconds = 5
+2025-07-06 20:23:50.341 | INFO     | __main__:create_folders_periodically:171 -    WAITING: counter = 1, duration_seconds = 5
+2025-07-06 20:23:55.345 | INFO     | __main__:create_folders_periodically:171 -    WAITING: counter = 2, duration_seconds = 5
+2025-07-06 20:24:00.350 | INFO     | __main__:create_folders_periodically:171 -    WAITING: counter = 4, duration_seconds = 5
+2025-07-06 20:24:00.351 | INFO     | __main__:main:237 - 
+#####################################
+2025-07-06 20:24:00.351 | INFO     | __main__:main:238 - # Completed execution of main()
+2025-07-06 20:24:00.351 | INFO     | __main__:main:239 - #####################################
+2025-07-06 20:24:14.598 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-07-06 20:24:14.598 | INFO     | __main__:main:209 - #####################################
+2025-07-06 20:24:14.598 | INFO     | __main__:main:210 - # Starting execution of main()
+2025-07-06 20:24:14.598 | INFO     | __main__:main:211 - #####################################
+
+2025-07-06 20:24:14.598 | INFO     | __main__:main:213 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:24:14.599 | INFO     | __main__:create_folders_periodically:155 - FUNCTION: create_folders_periodically()
+2025-07-06 20:24:14.599 | INFO     | __main__:create_folders_periodically:156 - PARAMETER: duration_seconds = 5
+2025-07-06 20:24:19.604 | INFO     | __main__:create_folders_periodically:171 -    WAITING: counter = 1, duration_seconds = 5
+2025-07-06 20:24:24.607 | INFO     | __main__:create_folders_periodically:171 -    WAITING: counter = 2, duration_seconds = 5
+2025-07-06 20:24:29.611 | INFO     | __main__:create_folders_periodically:171 -    WAITING: counter = 4, duration_seconds = 5
+2025-07-06 20:24:29.612 | INFO     | __main__:main:237 - 
+#####################################
+2025-07-06 20:24:29.612 | INFO     | __main__:main:238 - # Completed execution of main()
+2025-07-06 20:24:29.612 | INFO     | __main__:main:239 - #####################################
+2025-07-06 20:26:00.160 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-07-06 20:26:00.160 | INFO     | __main__:main:209 - #####################################
+2025-07-06 20:26:00.160 | INFO     | __main__:main:210 - # Starting execution of main()
+2025-07-06 20:26:00.160 | INFO     | __main__:main:211 - #####################################
+
+2025-07-06 20:26:00.160 | INFO     | __main__:main:213 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:26:00.161 | INFO     | __main__:create_folders_periodically:155 - FUNCTION: create_folders_periodically()
+2025-07-06 20:26:00.161 | INFO     | __main__:create_folders_periodically:156 - PARAMETER: duration_seconds = 5
+2025-07-06 20:26:00.161 | INFO     | __main__:create_folders_periodically:170 -    WAITING: counter = 1, duration_seconds = 5
+2025-07-06 20:26:05.166 | INFO     | __main__:create_folders_periodically:170 -    WAITING: counter = 2, duration_seconds = 5
+2025-07-06 20:26:10.171 | INFO     | __main__:create_folders_periodically:170 -    WAITING: counter = 4, duration_seconds = 5
+2025-07-06 20:26:15.176 | INFO     | __main__:main:237 - 
+#####################################
+2025-07-06 20:26:15.176 | INFO     | __main__:main:238 - # Completed execution of main()
+2025-07-06 20:26:15.177 | INFO     | __main__:main:239 - #####################################
+2025-07-06 20:31:42.910 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-07-06 20:31:42.910 | INFO     | __main__:main:210 - #####################################
+2025-07-06 20:31:42.910 | INFO     | __main__:main:211 - # Starting execution of main()
+2025-07-06 20:31:42.910 | INFO     | __main__:main:212 - #####################################
+
+2025-07-06 20:31:42.910 | INFO     | __main__:main:214 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:31:42.910 | INFO     | __main__:create_folders_periodically:155 - FUNCTION: create_folders_periodically()
+2025-07-06 20:31:42.910 | INFO     | __main__:create_folders_periodically:156 - PARAMETER: duration_seconds = 5
+2025-07-06 20:31:42.910 | INFO     | __main__:create_folders_periodically:171 -    WAITING: counter = 1, duration_seconds = 5
+2025-07-06 20:31:47.913 | INFO     | __main__:create_folders_periodically:171 -    WAITING: counter = 2, duration_seconds = 5
+2025-07-06 20:31:52.919 | INFO     | __main__:create_folders_periodically:171 -    WAITING: counter = 4, duration_seconds = 5
+2025-07-06 20:31:57.924 | INFO     | __main__:main:238 - 
+#####################################
+2025-07-06 20:31:57.925 | INFO     | __main__:main:239 - # Completed execution of main()
+2025-07-06 20:31:57.925 | INFO     | __main__:main:240 - #####################################
+2025-07-06 20:32:37.400 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-07-06 20:32:37.400 | INFO     | __main__:main:210 - #####################################
+2025-07-06 20:32:37.400 | INFO     | __main__:main:211 - # Starting execution of main()
+2025-07-06 20:32:37.400 | INFO     | __main__:main:212 - #####################################
+
+2025-07-06 20:32:37.400 | INFO     | __main__:main:214 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:32:37.400 | INFO     | __main__:create_folders_periodically:155 - FUNCTION: create_folders_periodically()
+2025-07-06 20:32:37.400 | INFO     | __main__:create_folders_periodically:156 - PARAMETER: duration_seconds = 5
+2025-07-06 20:32:37.400 | INFO     | __main__:create_folders_periodically:171 -    WAITING: counter = 1, duration_seconds = 5
+2025-07-06 20:32:42.404 | INFO     | __main__:create_folders_periodically:171 -    WAITING: counter = 2, duration_seconds = 5
+2025-07-06 20:32:47.410 | INFO     | __main__:create_folders_periodically:171 -    WAITING: counter = 3, duration_seconds = 5
+2025-07-06 20:32:52.415 | INFO     | __main__:create_folders_periodically:171 -    WAITING: counter = 4, duration_seconds = 5
+2025-07-06 20:32:57.421 | INFO     | __main__:create_folders_periodically:171 -    WAITING: counter = 5, duration_seconds = 5
+2025-07-06 20:33:02.426 | INFO     | __main__:main:238 - 
+#####################################
+2025-07-06 20:33:02.427 | INFO     | __main__:main:239 - # Completed execution of main()
+2025-07-06 20:33:02.427 | INFO     | __main__:main:240 - #####################################
+2025-07-06 20:33:43.516 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-07-06 20:33:43.516 | INFO     | __main__:main:209 - #####################################
+2025-07-06 20:33:43.516 | INFO     | __main__:main:210 - # Starting execution of main()
+2025-07-06 20:33:43.516 | INFO     | __main__:main:211 - #####################################
+
+2025-07-06 20:33:43.516 | INFO     | __main__:main:213 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:33:43.516 | INFO     | __main__:create_folders_periodically:155 - FUNCTION: create_folders_periodically()
+2025-07-06 20:33:43.516 | INFO     | __main__:create_folders_periodically:156 - PARAMETER: duration_seconds = 5
+2025-07-06 20:33:43.516 | INFO     | __main__:create_folders_periodically:170 -    WAITING: counter = 1, duration_seconds = 5
+2025-07-06 20:33:48.518 | INFO     | __main__:create_folders_periodically:170 -    WAITING: counter = 2, duration_seconds = 5
+2025-07-06 20:33:53.524 | INFO     | __main__:create_folders_periodically:170 -    WAITING: counter = 3, duration_seconds = 5
+2025-07-06 20:33:58.530 | INFO     | __main__:create_folders_periodically:170 -    WAITING: counter = 4, duration_seconds = 5
+2025-07-06 20:34:03.531 | INFO     | __main__:create_folders_periodically:170 -    WAITING: counter = 5, duration_seconds = 5
+2025-07-06 20:34:08.533 | INFO     | __main__:main:237 - 
+#####################################
+2025-07-06 20:34:08.533 | INFO     | __main__:main:238 - # Completed execution of main()
+2025-07-06 20:34:08.533 | INFO     | __main__:main:239 - #####################################
+2025-07-06 20:34:42.068 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-07-06 20:34:42.068 | INFO     | __main__:main:209 - #####################################
+2025-07-06 20:34:42.068 | INFO     | __main__:main:210 - # Starting execution of main()
+2025-07-06 20:34:42.068 | INFO     | __main__:main:211 - #####################################
+
+2025-07-06 20:34:42.068 | INFO     | __main__:main:213 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:34:42.068 | INFO     | __main__:create_folders_periodically:155 - FUNCTION: create_folders_periodically()
+2025-07-06 20:34:42.068 | INFO     | __main__:create_folders_periodically:156 - PARAMETER: duration_seconds = 5
+2025-07-06 20:34:42.069 | INFO     | __main__:create_folders_periodically:170 -    WAITING: counter = 1, duration_seconds = 5
+2025-07-06 20:34:47.074 | INFO     | __main__:create_folders_periodically:170 -    WAITING: counter = 2, duration_seconds = 5
+2025-07-06 20:34:52.078 | INFO     | __main__:create_folders_periodically:170 -    WAITING: counter = 3, duration_seconds = 5
+2025-07-06 20:34:57.082 | INFO     | __main__:create_folders_periodically:170 -    WAITING: counter = 4, duration_seconds = 5
+2025-07-06 20:35:02.087 | INFO     | __main__:create_folders_periodically:170 -    WAITING: counter = 5, duration_seconds = 5
+2025-07-06 20:35:07.089 | INFO     | __main__:main:237 - 
+#####################################
+2025-07-06 20:35:07.090 | INFO     | __main__:main:238 - # Completed execution of main()
+2025-07-06 20:35:07.090 | INFO     | __main__:main:239 - #####################################
+2025-07-06 20:38:37.479 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-07-06 20:38:37.479 | INFO     | __main__:main:206 - #####################################
+2025-07-06 20:38:37.479 | INFO     | __main__:main:207 - # Starting execution of main()
+2025-07-06 20:38:37.479 | INFO     | __main__:main:208 - #####################################
+
+2025-07-06 20:38:37.479 | INFO     | __main__:main:210 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:38:37.479 | INFO     | __main__:create_folders_periodically:154 - FUNCTION: create_folders_periodically()
+2025-07-06 20:38:37.479 | INFO     | __main__:create_folders_periodically:155 - PARAMETER: duration_seconds = 5
+2025-07-06 20:40:31.616 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-07-06 20:40:31.616 | INFO     | __main__:main:206 - #####################################
+2025-07-06 20:40:31.616 | INFO     | __main__:main:207 - # Starting execution of main()
+2025-07-06 20:40:31.616 | INFO     | __main__:main:208 - #####################################
+
+2025-07-06 20:40:31.616 | INFO     | __main__:main:210 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:40:31.616 | INFO     | __main__:create_folders_periodically:154 - FUNCTION: create_folders_periodically()
+2025-07-06 20:40:31.616 | INFO     | __main__:create_folders_periodically:155 - PARAMETER: duration_seconds = 5
+2025-07-06 20:40:31.617 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/1
+2025-07-06 20:40:31.617 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 1, duration_seconds = 5
+2025-07-06 20:40:36.622 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/2
+2025-07-06 20:40:36.623 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 2, duration_seconds = 5
+2025-07-06 20:40:41.626 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/3
+2025-07-06 20:40:41.627 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 3, duration_seconds = 5
+2025-07-06 20:40:46.632 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/4
+2025-07-06 20:40:46.632 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 4, duration_seconds = 5
+2025-07-06 20:40:51.638 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/5
+2025-07-06 20:40:51.638 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 5, duration_seconds = 5
+2025-07-06 20:40:56.639 | INFO     | __main__:main:234 - 
+#####################################
+2025-07-06 20:40:56.639 | INFO     | __main__:main:235 - # Completed execution of main()
+2025-07-06 20:40:56.640 | INFO     | __main__:main:236 - #####################################
+2025-07-06 20:41:14.005 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-07-06 20:41:14.005 | INFO     | __main__:main:206 - #####################################
+2025-07-06 20:41:14.005 | INFO     | __main__:main:207 - # Starting execution of main()
+2025-07-06 20:41:14.005 | INFO     | __main__:main:208 - #####################################
+
+2025-07-06 20:41:14.006 | INFO     | __main__:main:210 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:41:14.006 | INFO     | __main__:create_folders_periodically:154 - FUNCTION: create_folders_periodically()
+2025-07-06 20:41:14.006 | INFO     | __main__:create_folders_periodically:155 - PARAMETER: duration_seconds = 5
+2025-07-06 20:41:14.006 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/1
+2025-07-06 20:41:14.006 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 1, duration_seconds = 5
+2025-07-06 20:41:19.010 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/2
+2025-07-06 20:41:19.010 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 2, duration_seconds = 5
+2025-07-06 20:41:24.016 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/3
+2025-07-06 20:41:24.016 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 3, duration_seconds = 5
+2025-07-06 20:41:29.022 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/4
+2025-07-06 20:41:29.022 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 4, duration_seconds = 5
+2025-07-06 20:41:34.028 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/5
+2025-07-06 20:41:34.028 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 5, duration_seconds = 5
+2025-07-06 20:41:39.032 | INFO     | __main__:main:234 - 
+#####################################
+2025-07-06 20:41:39.033 | INFO     | __main__:main:235 - # Completed execution of main()
+2025-07-06 20:41:39.033 | INFO     | __main__:main:236 - #####################################
+2025-07-06 20:42:09.825 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-07-06 20:42:09.825 | INFO     | __main__:main:201 - #####################################
+2025-07-06 20:42:09.825 | INFO     | __main__:main:202 - # Starting execution of main()
+2025-07-06 20:42:09.825 | INFO     | __main__:main:203 - #####################################
+
+2025-07-06 20:42:09.825 | INFO     | __main__:main:205 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:42:09.826 | INFO     | __main__:create_folders_periodically:154 - FUNCTION: create_folders_periodically()
+2025-07-06 20:42:09.826 | INFO     | __main__:create_folders_periodically:155 - PARAMETER: duration_seconds = 5
+2025-07-06 20:42:09.826 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/1
+2025-07-06 20:42:09.826 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 1, duration_seconds = 5
+2025-07-06 20:42:14.827 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/2
+2025-07-06 20:42:14.827 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 2, duration_seconds = 5
+2025-07-06 20:42:19.833 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/3
+2025-07-06 20:42:19.833 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 3, duration_seconds = 5
+2025-07-06 20:42:24.839 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/4
+2025-07-06 20:42:24.839 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 4, duration_seconds = 5
+2025-07-06 20:42:29.845 | INFO     | __main__:create_folders_periodically:166 - Created folder: /Users/canhtran/Repos/datafun-02-automation/5
+2025-07-06 20:42:29.845 | INFO     | __main__:create_folders_periodically:167 -    WAITING: counter = 5, duration_seconds = 5
+2025-07-06 20:42:34.850 | INFO     | __main__:main:229 - 
+#####################################
+2025-07-06 20:42:34.851 | INFO     | __main__:main:230 - # Completed execution of main()
+2025-07-06 20:42:34.851 | INFO     | __main__:main:231 - #####################################
