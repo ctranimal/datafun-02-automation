@@ -55,7 +55,7 @@ REGIONS = [
 ]
 
 # This global variable: will SKIP executing code if isOff is True
-isOff : bool = True
+isOff : bool = False
 
 #####################################
 # Define Function 1. For item in Range: 
@@ -78,7 +78,8 @@ def create_folders_for_range(start_year: int, end_year: int) -> None:
     logger.info(f"PARAMETERS: start_year = {start_year}, end_year = {end_year}")
 
     for year in range(start_year, end_year + 1):
-         year_path = ROOT_DIR / str(year)
+         folder_name = "dir_" + str(year)
+         year_path = ROOT_DIR / folder_name
          year_path.mkdir(exist_ok=True)
          logger.info(f"Created folder: {year_path}")
 
@@ -161,7 +162,8 @@ def create_folders_periodically(duration_seconds: int) -> None:
     counter_num : int = 1
 
     while (counter_num <= max_FoldersCreated_num):
-        folder_path = ROOT_DIR / str(counter_num)
+        folder_name = "dir_" + str(counter_num)
+        folder_path = ROOT_DIR / folder_name
         folder_path.mkdir(exist_ok=True)
         logger.info(f"Created folder: {folder_path}")   
         logger.info(f"   WAITING: counter = {counter_num}, duration_seconds = {duration_seconds}")        
@@ -189,7 +191,15 @@ def create_standardized_folders(folder_list: list, to_lowercase: bool = False, r
     logger.info("FUNCTION: create_standardized_folders()")
     logger.info(f"PARAMETERS: folder_list = {folder_list}, to_lowercase = {to_lowercase}, remove_spaces = {remove_spaces}")
 
-    pass
+    lowercase_list = [item.lower() for item in folder_list]
+    spaceremoved_list = [ item2.replace(" ", "") for item2 in lowercase_list]
+
+    logger.info(f"IMPROVE_LIST: the original list is transformed to = {spaceremoved_list}")    
+
+    # Now, make a call to function 3 implemented, with prefix "dir"
+    create_prefixed_folders_using_list_comprehension(spaceremoved_list, "dir_")
+
+
   
 #####################################
 # Define a main() function for this module.
@@ -204,9 +214,12 @@ def main() -> None:
 
     logger.info(f"Byline: {utils_tran.get_byline()}")
 
+    # isOff as boolean varialbe: it's a good to "turn-off" certain codes to be executed, easy to test out in main function.
+    # when everything is DONE, switch isOff to False, and the code  becomes "LIVE"
     if(not(isOff)):
         # Call function 1 to create folders for a range (e.g. years)
-        create_folders_for_range(start_year=2020, end_year=2023)     
+        create_folders_for_range(start_year=2020, end_year=2023) 
+
         # Call function 2 to create folders given a list
         folder_names = ['data-csv', 'data-excel', 'data-json']
         create_folders_from_list(folder_names)     
@@ -214,18 +227,19 @@ def main() -> None:
         # Call function 3 to create folders using list comprehension
         folder_names = ['csv', 'excel', 'json']
         prefix = 'output-'
-        create_prefixed_folders_using_list_comprehension(folder_names, prefix)          
+        create_prefixed_folders_using_list_comprehension(folder_names, "dir_")     
+
+        # Call function 4 to create folders periodically using while
+        duration_secs:int = 5  # duration in seconds
+        create_folders_periodically(duration_secs)     
+
+        # Call function 5 to create standardized folders, no spaces, lowercase
+        create_standardized_folders(REGIONS, to_lowercase=True, remove_spaces=True)       
+    else:
+        #placeholder for else case
+        pass
+        
     
-
-
-    # Call function 4 to create folders periodically using while
-    duration_secs:int = 5  # duration in seconds
-    create_folders_periodically(duration_secs)
-
-    # Call function 5 to create standardized folders, no spaces, lowercase
-    # TODO: nextline
-    #create_standardized_folders(REGIONS, to_lowercase=True, remove_spaces=True)
-
     logger.info("\n#####################################")
     logger.info("# Completed execution of main()")
     logger.info("#####################################")
