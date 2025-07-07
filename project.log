@@ -494,3 +494,177 @@ Standard Deviation of Satisfaction Scores: 0.35
 #####################################
 2025-07-06 19:46:58.646 | INFO     | __main__:main:227 - # Completed execution of main()
 2025-07-06 19:46:58.646 | INFO     | __main__:main:228 - #####################################
+2025-07-06 19:50:36.227 | INFO     | __main__:<module>:37 - Logger loaded.
+2025-07-06 19:50:36.227 | INFO     | __main__:main:194 - #####################################
+2025-07-06 19:50:36.227 | INFO     | __main__:main:195 - # Starting execution of main()
+2025-07-06 19:50:36.227 | INFO     | __main__:main:196 - #####################################
+
+2025-07-06 19:50:36.227 | INFO     | __main__:main:198 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 19:50:36.227 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-07-06 19:50:36.227 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-07-06 19:50:36.227 | INFO     | __main__:main:222 - 
+#####################################
+2025-07-06 19:50:36.227 | INFO     | __main__:main:223 - # Completed execution of main()
+2025-07-06 19:50:36.227 | INFO     | __main__:main:224 - #####################################
+2025-07-06 19:56:44.361 | INFO     | __main__:<module>:37 - Logger loaded.
+2025-07-06 19:56:44.361 | INFO     | __main__:main:198 - #####################################
+2025-07-06 19:56:44.361 | INFO     | __main__:main:199 - # Starting execution of main()
+2025-07-06 19:56:44.361 | INFO     | __main__:main:200 - #####################################
+
+2025-07-06 19:56:44.361 | INFO     | __main__:main:202 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 19:56:44.361 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-07-06 19:56:44.361 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-07-06 20:01:32.706 | INFO     | __main__:<module>:37 - Logger loaded.
+2025-07-06 20:01:32.706 | INFO     | __main__:main:198 - #####################################
+2025-07-06 20:01:32.706 | INFO     | __main__:main:199 - # Starting execution of main()
+2025-07-06 20:01:32.706 | INFO     | __main__:main:200 - #####################################
+
+2025-07-06 20:01:32.706 | INFO     | __main__:main:202 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:01:32.706 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-07-06 20:01:32.706 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-07-06 20:01:32.706 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:139 - Created folder: /Users/canhtran/Repos/datafun-02-automation/output-<generator object create_prefixed_folders_using_list_comprehension.<locals>.<genexpr> at 0x107fca380>
+2025-07-06 20:01:32.706 | INFO     | __main__:main:226 - 
+#####################################
+2025-07-06 20:01:32.707 | INFO     | __main__:main:227 - # Completed execution of main()
+2025-07-06 20:01:32.707 | INFO     | __main__:main:228 - #####################################
+2025-07-06 20:06:31.058 | INFO     | __main__:<module>:37 - Logger loaded.
+2025-07-06 20:06:31.059 | INFO     | __main__:main:198 - #####################################
+2025-07-06 20:06:31.059 | INFO     | __main__:main:199 - # Starting execution of main()
+2025-07-06 20:06:31.059 | INFO     | __main__:main:200 - #####################################
+
+2025-07-06 20:06:31.059 | INFO     | __main__:main:202 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:06:31.059 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-07-06 20:06:31.059 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-07-06 20:06:31.059 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:140 - Created folder: /Users/canhtran/Repos/datafun-02-automation/output-csv
+2025-07-06 20:06:31.060 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:140 - Created folder: /Users/canhtran/Repos/datafun-02-automation/output-excel
+2025-07-06 20:06:31.060 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:140 - Created folder: /Users/canhtran/Repos/datafun-02-automation/output-json
+2025-07-06 20:06:31.060 | INFO     | __main__:main:226 - 
+#####################################
+2025-07-06 20:06:31.060 | INFO     | __main__:main:227 - # Completed execution of main()
+2025-07-06 20:06:31.060 | INFO     | __main__:main:228 - #####################################
+2025-07-06 20:06:48.620 | INFO     | __main__:<module>:37 - Logger loaded.
+2025-07-06 20:06:48.620 | INFO     | __main__:main:198 - #####################################
+2025-07-06 20:06:48.620 | INFO     | __main__:main:199 - # Starting execution of main()
+2025-07-06 20:06:48.620 | INFO     | __main__:main:200 - #####################################
+
+2025-07-06 20:06:48.620 | INFO     | __main__:main:202 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:06:48.620 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-07-06 20:06:48.620 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-07-06 20:06:48.620 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:140 - Created folder: /Users/canhtran/Repos/datafun-02-automation/output-csv
+2025-07-06 20:06:48.621 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:140 - Created folder: /Users/canhtran/Repos/datafun-02-automation/output-excel
+2025-07-06 20:06:48.621 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:140 - Created folder: /Users/canhtran/Repos/datafun-02-automation/output-json
+2025-07-06 20:06:48.621 | INFO     | __main__:main:226 - 
+#####################################
+2025-07-06 20:06:48.621 | INFO     | __main__:main:227 - # Completed execution of main()
+2025-07-06 20:06:48.621 | INFO     | __main__:main:228 - #####################################
+2025-07-06 20:08:05.942 | INFO     | __main__:<module>:37 - Logger loaded.
+2025-07-06 20:08:05.942 | INFO     | __main__:main:196 - #####################################
+2025-07-06 20:08:05.942 | INFO     | __main__:main:197 - # Starting execution of main()
+2025-07-06 20:08:05.942 | INFO     | __main__:main:198 - #####################################
+
+2025-07-06 20:08:05.942 | INFO     | __main__:main:200 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:08:05.942 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-07-06 20:08:05.942 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-07-06 20:08:05.942 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:138 - Created folder: /Users/canhtran/Repos/datafun-02-automation/output-csv
+2025-07-06 20:08:05.942 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:138 - Created folder: /Users/canhtran/Repos/datafun-02-automation/output-excel
+2025-07-06 20:08:05.942 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:138 - Created folder: /Users/canhtran/Repos/datafun-02-automation/output-json
+2025-07-06 20:08:05.943 | INFO     | __main__:main:224 - 
+#####################################
+2025-07-06 20:08:05.943 | INFO     | __main__:main:225 - # Completed execution of main()
+2025-07-06 20:08:05.943 | INFO     | __main__:main:226 - #####################################
+2025-07-06 20:09:49.699 | INFO     | __main__:<module>:37 - Logger loaded.
+2025-07-06 20:09:49.700 | INFO     | __main__:main:196 - #####################################
+2025-07-06 20:09:49.700 | INFO     | __main__:main:197 - # Starting execution of main()
+2025-07-06 20:09:49.700 | INFO     | __main__:main:198 - #####################################
+
+2025-07-06 20:09:49.700 | INFO     | __main__:main:200 - Byline: 
+--------------------------------------------------------------
+Mr Tran's Stellar Analytics: Delivering Professional Insights
+--------------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         1
+Skills Offered:             ['Data Engineering', 'BI Dashboards', 'Data Storytelling']
+Client Satisfaction Scores: [1.9, 1.7, 1.8, 1.0, 1.6]
+Minimum Satisfaction Score: 1.0
+Maximum Satisfaction Score: 1.9
+Mean Satisfaction Score: 1.60
+Standard Deviation of Satisfaction Scores: 0.35
+
+2025-07-06 20:09:49.700 | INFO     | __main__:create_folders_periodically:156 - FUNCTION: create_folders_periodically()
+2025-07-06 20:09:49.700 | INFO     | __main__:create_folders_periodically:157 - PARAMETER: duration_seconds = 5
+2025-07-06 20:09:49.700 | INFO     | __main__:main:224 - 
+#####################################
+2025-07-06 20:09:49.700 | INFO     | __main__:main:225 - # Completed execution of main()
+2025-07-06 20:09:49.700 | INFO     | __main__:main:226 - #####################################

@@ -107,8 +107,6 @@ def create_folders_from_list(folder_list: list) -> None:
          folder_path.mkdir(exist_ok=True)
          logger.info(f"Created folder: {folder_path}")      
     
-
-
   
 #####################################
 # Define Function 3. List Comprehension: 
@@ -131,9 +129,11 @@ def create_prefixed_folders_using_list_comprehension(folder_list: list, prefix: 
     logger.info("FUNCTION: create_prefixed_folders()")
     logger.info(f"PARAMETERS: folder_list = {folder_list}, prefix = {prefix}")
 
-    # TODO: Implement this function professionally and remove the temporary pass.
-    # TODO: Use a list comprehension to create the folder names.
-    pass
+    for folder in folder_list:
+        folder_name = prefix + str(folder)
+        folder_path = ROOT_DIR / folder_name
+        folder_path.mkdir(exist_ok=True)
+        logger.info(f"Created folder: {folder_path}")    
 
   
 
@@ -202,19 +202,18 @@ def main() -> None:
         create_folders_for_range(start_year=2020, end_year=2023)     
         # Call function 2 to create folders given a list
         folder_names = ['data-csv', 'data-excel', 'data-json']
-        create_folders_from_list(folder_names)       
+        create_folders_from_list(folder_names)     
+
+        # Call function 3 to create folders using list comprehension
+        folder_names = ['csv', 'excel', 'json']
+        prefix = 'output-'
+        create_prefixed_folders_using_list_comprehension(folder_names, prefix)          
     
 
-    # Call function 3 to create folders using list comprehension
-    folder_names = ['csv', 'excel', 'json']
-    prefix = 'output-'
-    # TODO: nextline    
-    #create_prefixed_folders_using_list_comprehension(folder_names, prefix)
 
     # Call function 4 to create folders periodically using while
     duration_secs:int = 5  # duration in seconds
-    # TODO: nextline
-    #create_folders_periodically(duration_secs)
+    create_folders_periodically(duration_secs)
 
     # Call function 5 to create standardized folders, no spaces, lowercase
     # TODO: nextline
